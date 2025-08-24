@@ -1,0 +1,2 @@
+# pumpfun-bot
+pumpfun-bot
